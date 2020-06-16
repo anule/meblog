@@ -22,3 +22,6 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+
+baseurl: "/meblog" # the subpath of your site, e.g. /blog
+url: "https://anule.github.io" # the base hostname & protocol for your site, e.g. http://example.com
